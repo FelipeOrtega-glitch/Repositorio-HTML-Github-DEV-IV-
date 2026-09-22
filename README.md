@@ -5,4 +5,12 @@ Hola mundo
 Holaaaa gente
 
 
+<<<<<<< HEAD
+Hola chicus 
+
+Holaaaa gente
+
+HOLAAAAAAAAAAAAAAAAAAAAAA
+=======
 daodjsojdoiajosdowajp
+>>>>>>> origin/develop
